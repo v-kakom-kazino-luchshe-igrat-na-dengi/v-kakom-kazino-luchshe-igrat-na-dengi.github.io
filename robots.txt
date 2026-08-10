@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: v-kakom-kazino-luchshe-igrat-na-dengi.github.io
+Sitemap: https://v-kakom-kazino-luchshe-igrat-na-dengi.github.io/sitemap.xml
